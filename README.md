@@ -4,9 +4,9 @@ My name is Alex. I'm an engineer for building physics. This page contains projec
 
 ### CONSULTING: ENERGY EFFICIENCY
 
-This project contains several tools with the purpose to improve the quality of the planning process of energy efficiency in buildings, according to German law and norms.
+This project contains several tools with the purpose to improve the quality of the planning process of energy efficiency in buildings, according to German regulations.
 - Calculating the best heat source, from a financial and a environmental perspective
-- Calculating the energy needed for residential buildings according to German norms.
+- Calculating the energy needed for residential buildings according to German regulations
 - Sommerlicher Wärmeschutz: If a room is permitted to be build as planned or is overheating in the summer
 
 
